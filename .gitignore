@@ -1,0 +1,4 @@
+pkgbuilds/*/pkg
+pkgbuilds/*/src
+pkgbuilds/*/*.tar.xz
+*.old
